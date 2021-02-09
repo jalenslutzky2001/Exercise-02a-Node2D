@@ -78,7 +78,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-02a-Node2D
-Exercise for MSCH-C220, 3 February 2021
+Exercise for MSCH-C220, 8 February 2021
 
 A simple game exploring Node2D translation, scale, and rotation.
 
@@ -92,5 +92,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
